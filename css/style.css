@@ -9,7 +9,7 @@
   0% {
     opacity: 0;
   }
-  66% {
+  88% {
     opacity: 0;
   }
   100% {
@@ -21,7 +21,7 @@
   0% {
     opacity: 0;
   }
-  66% {
+  88% {
     opacity: 0;
   }
   100% {
@@ -33,7 +33,7 @@
   0% {
     opacity: 0;
   }
-  66% {
+  88% {
     opacity: 0;
   }
   100% {
@@ -45,7 +45,7 @@
   0% {
     opacity: 0;
   }
-  66% {
+  88% {
     opacity: 0;
   }
   100% {
@@ -57,7 +57,7 @@
   0% {
     opacity: 0;
   }
-  66% {
+  88% {
     opacity: 0;
   }
   100% {
@@ -81,12 +81,12 @@
 #icon {
   height: 300px;
   animation-name: slide-in-right;
-  animation-duration: 1.2s;
+  animation-duration: 2s;
 }
 #name {
   height: 250px;
   width: 1000 px;
   margin-left: 50px;
   animation-name: fadeIn;
-  animation-duration: 2s;
+  animation-duration: 3s;
 }
