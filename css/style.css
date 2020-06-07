@@ -79,13 +79,12 @@
 }
 
 #icon {
-  height: 300px;
+  width: 20%;
   animation-name: slide-in-right;
   animation-duration: 2s;
 }
 #name {
-  height: 250px;
-  width: 1000 px;
+  width: 65%;
   margin-left: 50px;
   animation-name: fadeIn;
   animation-duration: 3s;
